@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "id": 1, "type": "potion", "rarity": "common", "size": [1, 1] },
+    { "id": 2, "type": "sword", "rarity": "rare", "size": [2, 2] },
+    { "id": 3, "type": "shield", "rarity": "epic", "size": [3, 2] },
+    { "id": 4, "type": "armor", "rarity": "legendary", "size": [4, 3] },
+    { "id": 5, "type": "hat", "rarity": "common", "size": [2, 1] },
+    { "id": 6, "type": "staff", "rarity": "rare", "size": [1, 3] },
+    { "id": 7, "type": "bow", "rarity": "epic", "size": [2, 3] },
+    { "id": 8, "type": "axe", "rarity": "rare", "size": [2, 2] },
+    { "id": 9, "type": "dagger", "rarity": "common", "size": [1, 2] },
+    { "id": 10, "type": "crown", "rarity": "legendary", "size": [2, 2] },
+    { "id": 11, "type": "ring", "rarity": "epic", "size": [1, 1] },
+    { "id": 12, "type": "amulet", "rarity": "legendary", "size": [1, 1] },
+    { "id": 13, "type": "boots", "rarity": "rare", "size": [2, 2] },
+    { "id": 14, "type": "gloves", "rarity": "common", "size": [2, 1] },
+    { "id": 15, "type": "belt", "rarity": "epic", "size": [3, 1] },
+    { "id": 16, "type": "cloak", "rarity": "legendary", "size": [3, 4] },
+    { "id": 17, "type": "scroll", "rarity": "rare", "size": [1, 2] },
+    { "id": 18, "type": "book", "rarity": "epic", "size": [2, 2] },
+    { "id": 19, "type": "wand", "rarity": "rare", "size": [1, 3] },
+    { "id": 20, "type": "orb", "rarity": "legendary", "size": [2, 2] },
+    { "id": 21, "type": "gem", "rarity": "epic", "size": [1, 1] },
+    { "id": 22, "type": "shield", "rarity": "rare", "size": [3, 2] },
+    { "id": 23, "type": "hammer", "rarity": "epic", "size": [2, 3] },
+    { "id": 24, "type": "spear", "rarity": "legendary", "size": [1, 4] },
+    { "id": 25, "type": "gem", "rarity": "rare", "size": [1, 1] }
+  ]
+}

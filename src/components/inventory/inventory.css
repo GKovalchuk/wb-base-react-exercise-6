@@ -1,0 +1,36 @@
+.inventory {
+  display: grid;
+  gap: 4px;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 10px;
+  background: #1e1e1e;
+  border: 2px solid #333;
+}
+
+.inventory__cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  background: #2e2e2e;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.inventory__cell--item {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.inventory__cell-label {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  pointer-events: none;
+}

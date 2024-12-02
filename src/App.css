@@ -1,0 +1,41 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-lg);
+}
+
+.app__title {
+  color: var(--text-primary);
+  text-align: center;
+  font-size: var(--font-size-lg);
+  margin-bottom: var(--spacing-lg);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px rgba(74, 144, 226, 0.3);
+}
+
+.app__content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+.common {
+  background: var(--common-bg);
+  border: 1px solid var(--common-border);
+}
+
+.rare {
+  background: var(--rare-bg);
+  border: 1px solid var(--rare-border);
+}
+
+.epic {
+  background: var(--epic-bg);
+  border: 1px solid var(--epic-border);
+}
+
+.legendary {
+  background: var(--legendary-bg);
+  border: 1px solid var(--legendary-border);
+}

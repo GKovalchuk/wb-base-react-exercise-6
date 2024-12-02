@@ -1,0 +1,33 @@
+:root {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #1e1e1e;
+  --border-color: #3a3a3a;
+  --container-width: 500px;
+  --spacing-sm: 8px;
+  --spacing-lg: 20px;
+  
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.1);
+  --font-size-sm: 12px;
+  --font-size-lg: 1.2rem;
+  --font-size-xl: 2.5rem;
+  
+  --common-bg: #3a3a3a;
+  --common-border: #5a5a5a;
+  --rare-bg: #003d99;
+  --rare-border: #0066ff;
+  --epic-bg: #51207a;
+  --epic-border: #8f35c9;
+  --legendary-bg: #b38f24;
+  --legendary-border: #ffd700;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
